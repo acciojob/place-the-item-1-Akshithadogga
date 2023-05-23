@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+#first{
+	background-color:green;
+	width:90px;
+	height:90px;
+}
+#second{
+	background-color:red;
+	width:90px;
+	height:90px;
+}
+#thired{
+	background-color:blue;
+	width:90px;
+	height:90px;
+}
+.flex-box{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+	
+}
+
+}
